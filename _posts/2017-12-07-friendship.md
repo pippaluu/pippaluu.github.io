@@ -5,7 +5,6 @@ date: 2017-12-07 08-22-27
 categories: blog
 ---
 
-<div class="content" markdown="1">
 
 # Aristotle's Advice on Friendship
 
@@ -69,5 +68,3 @@ they do so with trust, admiration and awe. They bring with them some of
 the sweeter joys that life has to offer.
 
 Zat Rana - Dec 6, 2017
-
-</div>
