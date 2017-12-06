@@ -3,6 +3,7 @@
 # only main files contain this front master, not partials.
 ---
 
+@import "{{ site.theme }}";
 @import "typography";
 
 .content {
