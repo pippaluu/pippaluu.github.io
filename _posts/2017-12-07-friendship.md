@@ -5,6 +5,8 @@ date: 2017-12-07 08-22-27
 categories: general
 ---
 
+# Aristotle's Advice on Friendship
+
 Aristotle outlined two kinds of common friendships that
 are more accidental than intentional.
 
