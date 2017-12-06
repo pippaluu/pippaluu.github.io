@@ -5,7 +5,7 @@ date: 2017-12-07 08-22-27
 categories: blog
 ---
 
-<div class="content">
+<div class="content" markdown="1">
 
 # Aristotle's Advice on Friendship
 
