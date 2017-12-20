@@ -19,7 +19,7 @@ https://vnexpress.net/tin-tuc/khoa-hoc/trong-nuoc/5-nha-khoa-hoc-viet-anh-huong-
 
 # Prof. Huyen My Hang
 
-Prof. [Huyen My Hang] received the MacArthur Fellowship 2007. Phong vien Prof. Huyen My Hang voi phong vien dai RFA.
+Prof. [Huyen My Hang] received the MacArthur Fellowship 2007.
 
 
 [Nguyen Thuc Quyen]: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%A5c_Quy%C3%AAn
