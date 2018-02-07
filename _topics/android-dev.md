@@ -1,0 +1,18 @@
+# Android Development
+
+- [Introduction to Android architecture components](https://android.jlelse.eu/introduction-to-android-architecture-components-22b8c84f0b9d)
+- [Android architure component: LiveData](https://android.jlelse.eu/android-architecture-components-livedata-1ce4ab3c0466)
+- [Exploring Room architure component](https://android.jlelse.eu/exploring-room-architecture-component-6db807094241)
+- [Room entity annotation](https://medium.com/@tonyowen/room-entity-annotations-379150e1ca82)
+- [Building database with Room persistence library](https://medium.com/@ajaysaini.official/building-database-with-room-persistence-library-ecf7d0b8f3e9)
+- [Android Room persistence library](https://medium.com/@magdamiu/android-room-persistence-library-97ad0d25668e)
+- [Android is SOLID](https://medium.com/@magdamiu/android-is-solid-348c2d3fd6ce)
+- [Learning Android development in 2018](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a20)
+- [Gradle script for Kotlin lovers](https://medium.com/@StefMa/gradle-scripts-for-kotlin-lovers-1d04e2d0fc34)
+- [7 dependencies every Android developer should know](https://android.jlelse.eu/7-third-party-dependencies-every-android-developer-should-know-a751f009ff58)
+- [Building Android app with Kotlin](https://medium.com/digital-product-insights/android-kotlin-pratices-9b58a173d417)
+- [How to learn Android Development](https://medium.com/mindorks/how-to-learn-android-development-f33dd6dba40d)
+- [Practical data structures guide for Android developer](https://medium.com/mindorks/practical-data-structures-guide-for-android-developers-73fdec190802)
+- Clean, Easy & New - How to architect your app - [Part1](https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d), [Part2](https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-2-persistence-80c853812b4c), [Part3](https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-3-network-calls-d8a2c1745c55) and [Part4](https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-4-livedata-transformations-f0fd9f313ec6)
+- [Simple weather forecast app using Kotlin](https://android.jlelse.eu/simple-weather-forecast-app-using-kotlin-retrofit-and-rxjava2-c4b1f4d9344e)
+- [Android Tasks](https://android.jlelse.eu/https-medium-com-yashsoniweb-android-tasks-ffbd547ff5b8)
