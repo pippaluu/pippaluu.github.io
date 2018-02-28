@@ -4,8 +4,11 @@
 - [Buffalo Lawn Care](http://buffalolawncare.com.au/)
 - [Lawn moving tips](https://atlasturf.com.au/lawn-care-tips/lawn-mowing-grass/)
 - [How watering and fertisising lawn](http://buffalolawncare.com.au/buffalo-grass-videos/205-lawn-watering-and-fertilising-video.html)
+- [How often to water buffalo lawns](http://buffalolawncare.com.au/buffalo-grass-lawn-watering/120-how-often-to-water-buffalo-lawns.html)
 - [Killing ants in buffalo lawns](http://buffalolawncare.com.au/buffalo-grass-lawn-pests/236-killing-ants-in-buffalo-lawns.html)
-- [Adding supplements to buffalo lawn fertilising](http://buffalolawncare.com.au/buffalo-grass-lawn-care/256-adding-supplements-to-buffalo-lawn-fertilising.html). Phosphate is a major element necessary for root growth and health, but is sometimes lacking in some fertiliser. Trace elements can be applied to the lawn once a year and Spring is the best time to do this. Buffalo grass love a little extra Iron Chelate. Iron Chelate will be availabe for sale right alongside the trace elements in the same size package, for about the same price. All lawns love little extra Iron throgh Winter, so the best time t apply Iron Chelate will be in late Autumn, about a month before Winter sets in.
+- [Adding supplements to buffalo lawn fertilising](http://buffalolawncare.com.au/buffalo-grass-lawn-care/256-adding-supplements-to-buffalo-lawn-fertilising.html).
+
+  Phosphate is a major element necessary for root growth and health, but is sometimes lacking in some fertiliser. Trace elements can be applied to the lawn once a year and Spring is the best time to do this. Buffalo grass love a little extra Iron Chelate. Iron Chelate will be availabe for sale right alongside the trace elements in the same size package, for about the same price. All lawns love little extra Iron throgh Winter, so the best time t apply Iron Chelate will be in late Autumn, about a month before Winter sets in.
 - Watering buffalo lawn should only ever be done in the mornings, nerver at night. Apply more water but less frequently.
 - Monitor the lawn for signs fo stress, and only when the lawn reaches a point of beginning to look stressed, it's time to water again. Find the right frequency for watering our bufflalo lawn to perfection. This usually works out to about once a week.
 - Wetting agents should be applied at least once or twice per year, before Summer begins and after Simmer ends.
